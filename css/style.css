@@ -1,6 +1,6 @@
 /* COMMON DEMO STYLE */
 body{
-  background: url('/img/background.jpg');
+  background: url('../img/background.jpg');
 }
 .page-view {
   height: 100vh;
