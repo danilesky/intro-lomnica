@@ -1,0 +1,2 @@
+intro lomnica 
+animation @Medirex
